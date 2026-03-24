@@ -1,5 +1,7 @@
 # Koko Analytics Seeder
 
+> This command is deprecated in favor of a script in the core plugin. Use [bin/db-seed](https://github.com/ibericode/koko-analytics/blob/main/bin/db-seed) instead.
+
 This plugin registers a new WP CLI command to seed your WordPress database with sample data for the Koko Analytics plugin.
 
 ```
